@@ -1,0 +1,38 @@
+.availTours {
+    margin-left: -55px;
+    margin-top: 8%;
+    background-image: url("../assets/MicrosoftTeams-image\ \(10\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-bottom: 1000px; */
+}
+
+.ATHeading {
+    margin-top: 0%;
+    color: white;
+}
+
+.stylee {
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 30px;
+}
+
+.menubar {
+    background-image: url('../assets/MicrosoftTeams-image\ \(10\).png');
+}
+
+/* .alignn{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    height: min-content;
+} */
+/* body{
+    background-image: url('../assets/MicrosoftTeams-image\ \(10\).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+/* html {
+    background-image: url('../assets/MicrosoftTeams-image\ \(10\).png');
+    background-size: cover;
+} */

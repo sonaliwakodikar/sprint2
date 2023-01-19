@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+*{
+  font-family: 'Nunito',sans-serif;
+}
+h3{
+    color: whitesmoke;
+}
+.UpdateUser{
+    height: 650px;
+    width: 500px;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+}
+.uInput{
+    display: block;
+      height: 30px;
+      width: 100%;
+      background-color: rgba(255,255,255,0.07);
+      padding: 0 10px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      font-size: 14px;
+      font-weight: 300;
+      border-radius: 10px;
+      text-decoration-color: whitesmoke;
+}
+.llabel{
+    margin-top: -3px;
+    margin-bottom: 0%;
+  }
+td{
+    padding-right: 10px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 10px;
+}
+button{
+    width: 100px;
+}
+::placeholder{
+    color: black;
+}
+.spacing{
+    border-collapse: collapse;
+    padding: 0%;
+
+}
+/* tr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+} */

@@ -1,0 +1,14 @@
+.card {
+    border-radius: 15px;
+    border-color: gray;
+    border-width: 3px;
+    width: max-content;
+}
+
+.ATHeading {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.availT{
+    margin-left: -50%;
+}

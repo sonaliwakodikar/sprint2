@@ -1,0 +1,70 @@
+
+/* .navb{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    iomd person text pakkapakkana radaniki 
+    display: flex;
+     position: fixed;
+     flex-direction: row;
+     top,right,bottom,left 
+     inset: 0px 1000px 549px 0px;
+    background-color: black;
+    }
+    .navb .icon{
+     margin-left: 20px;
+     font-size: 30px;
+     color: white;
+    }
+    .navb .text{
+     margin-left: 10px;
+     font-size: 25px;
+     margin-top: -0.5px;
+     color: red;
+     align-items: center;
+    } */
+    .sidebar{
+ display: flex;
+     position: fixed;
+     flex-direction: row;
+     /* inset: 0 75% 0 0; */
+     /* top,right,bottom,left */
+     inset: 70px 1000px 0px 0px;
+     /* background-color: hsla(0,40%,98%,0.092); */
+     background-color: black;
+     padding-top: 25px;
+    }
+    .ulitem li{
+     display: flex;
+     flex-direction: row;
+     margin-left: 0px;
+     align-items: center;
+     cursor: pointer;
+     padding-block: 0.1rem;
+     /* margin-top: 10px; */
+    gap: 0.1rem;
+    }
+    .ulitem li p{
+        margin-top: 7.25%;
+    }
+    .ulitem li:hover{
+     /* background-color: gray; */
+     /* background: #202932; */
+     background: #2c3844;
+     width: 260px;
+    }
+    .ulitem .icon{
+     color: white;
+     font-size: 25px;
+    }
+    .ulitem .text{
+     color: white;
+     font-size: 20px;
+     margin-left: 10px;
+     text-underline-offset: black;
+    }
+    
+    
+    
+    

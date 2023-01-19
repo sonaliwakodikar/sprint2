@@ -1,0 +1,42 @@
+
+.manage:hover{
+    /* width: 120%;
+    height: 150%; */
+    transition: width 2s, height 2s, transform 2s;
+    transition: transform 2s;
+    /* border: 10px solid red; */
+    overflow: hidden;
+ 
+    
+        -ms-transform: scale(1.5); /* IE 9 */
+        -webkit-transform: scale(1.5); /* Safari 3-8 */
+        transform: scale(1.5);
+}
+
+/* html{
+    background-color: whitesmoke;
+    background-image: none;
+}
+body{
+    background-color: whitesmoke;
+} */
+.manage{
+    width:100%;
+    height: 500px;
+ background-color: black;
+}
+.content{
+font-size: 15px;
+text-align: left;
+padding: 50px;
+width: 100%;
+}
+
+.d{
+    width: 100%;
+    height: 500px;
+}
+body{
+    background-image: none;
+    background-color: white;
+}
